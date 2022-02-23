@@ -1,0 +1,9 @@
+{
+  "name": "@fezvrasta/eslint-plugin-no-iife",
+  "version": "1.0.0",
+  "description": "ESLint rule to disallow IIFE",
+  "main": "index.js",
+  "repository": "https://FezVrasta@github.com/FezVrasta/eslint-plugin-no-iife",
+  "author": "Federico Zivolo <federico.zivolo@gmail.com>",
+  "license": "MIT"
+}
